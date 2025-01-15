@@ -23,5 +23,6 @@ public class largeNumber {
             i++;
         }
         System.out.println("the large number of array:" + max);
+        in.close();
     }
 }
